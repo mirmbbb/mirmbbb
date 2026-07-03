@@ -33,6 +33,13 @@
 * Получить позицию Junior QA Engineer для развития в сфере тестирования ПО
 * Научиться Автоматизации, для тестирования
 * Перейти на следующую ступень, Junior-Middle
+* 
+* ## 📁 Артефакты тестирования
+
+- [Тест-кейсы](Test-cases.md)
+- [Баг-репорты](bug-reports.md)
+- [Чек-листы](Checklists.md)
+- [Итоговый отчёт](Test-Summary-Report.md)
 
 ## 📬 Контакты
 * **Telegram:** [Tony Games](https://t.me/mnenorm_ym)
