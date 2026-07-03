@@ -36,9 +36,9 @@
 * 
 * ## 📁 Артефакты тестирования
 
-- [Тест-кейсы](Test-cases.md)
-- [Баг-репорты](bug-reports.md)
-- [Чек-листы](Checklists.md)
+- [Тест-кейсы](test/Test-cases.md)
+- [Баг-репорты](test/bug-reports.md)
+- [Чек-листы](test/Checklists.md)
 - [Итоговый отчёт](test/Test-Summary-Report.md)
 
 ## 📬 Контакты
