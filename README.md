@@ -39,7 +39,7 @@
 - [Тест-кейсы](Test-cases.md)
 - [Баг-репорты](bug-reports.md)
 - [Чек-листы](Checklists.md)
-- [Итоговый отчёт](Test-Summary-Report.md)
+- [Итоговый отчёт](test/Test-Summary-Report.md)
 
 ## 📬 Контакты
 * **Telegram:** [Tony Games](https://t.me/mnenorm_ym)
